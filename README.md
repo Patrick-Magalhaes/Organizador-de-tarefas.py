@@ -34,6 +34,21 @@ https://github.com/Patrick-Magalhaes
 
 ---
 
+📚 O que aprendi
+
+Durante o desenvolvimento deste projeto, aprendi a utilizar vários aspectos novos da linguagem Python, como:
+
+- Criação de menus interativos em terminal
+- Manipulação de listas (adicionar, alterar, remover itens)
+- Uso de try/except para evitar erros com entradas inválidas
+- Uso do método enumerate() para mostrar listas numeradas
+- Melhor organização e legibilidade do código com estruturas de controle (if, while)
+- Boas práticas para criar scripts que interagem com o usuário
+
+Este projeto foi uma ótima oportunidade para reforçar minha lógica de programação e aprimorar minhas habilidades com Python.
+
+---
+
 ## 🚀 Como executar
 
 1. Clone este repositório ou baixe o arquivo `.py`:
