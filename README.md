@@ -29,7 +29,7 @@ Python 3
 
 🧑‍💻 Autor
 
-Feito com 💙 por Seu Nome Aqui
+Feito com 💙 por Patrick Magalhães
 https://github.com/Patrick-Magalhaes
 
 ---
