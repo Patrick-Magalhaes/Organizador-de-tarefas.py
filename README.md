@@ -21,6 +21,19 @@ Este é um simples organizador de tarefas feito em Python para ser utilizado no 
 
 ---
 
+🛠️ Tecnologias utilizadas
+
+Python 3
+
+---
+
+🧑‍💻 Autor
+
+Feito com 💙 por Seu Nome Aqui
+https://github.com/Patrick-Magalhaes
+
+---
+
 ## 🚀 Como executar
 
 1. Clone este repositório ou baixe o arquivo `.py`:
@@ -31,9 +44,4 @@ cd organizador-de-tarefas
 
 python nome_do_arquivo.py
 
----
-
-##🛠️ Tecnologias utilizadas
-
-Python 3
 
